@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="#00000000">
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="310dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:src="@drawable/right_icon"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Thank You"
+            android:textSize="28dp"
+            android:fontFamily="@font/poppins_semibold"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/grey2"
+            android:text="Now you can avail any\n
+product or service from the\n
+Business Boosters Club trusted members."
+            android:textSize="11dp"
+            android:fontFamily="@font/poppinsregular"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/ok"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/ok_btn" />
+
+    </LinearLayout>
+
+</LinearLayout>

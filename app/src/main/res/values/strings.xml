@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BB Club</string>
+    <string name="commn_url">https://businessboosters.club/public/api/</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ongoing">Ongoing Trips</string>
+    <string name="ideal">Ideal Vehicles</string>
+    <string name="currant">Currant Month</string>
+    <string name="previous">Previous Month</string>
+    <string name="pendingtask">Pending Tasks</string>
+    <string name="completetask">Complete Tasks</string>
+    <string name="img_uri">https://businessboostersclub.online/storage/images/user_images/</string>
+</resources>

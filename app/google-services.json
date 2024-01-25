@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859215654458",
+    "project_id": "bbc-club-447e4",
+    "storage_bucket": "bbc-club-447e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859215654458:android:cfcbc55b5944e069f8cf03",
+        "android_client_info": {
+          "package_name": "com.bbc.agsolutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOSZxaF1QIsrrXbREbq2J_AtSpoO4oYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
